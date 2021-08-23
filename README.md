@@ -1,1 +1,1 @@
-# Python-amalyotlari
+Bu mening fundamental pythondan qilgan amalyotlarim
